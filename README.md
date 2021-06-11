@@ -16,3 +16,8 @@ Nesse exercício, discutimos como encontrar melhores parâmetros para modelos de
 
 Também durante o exercício fazemos uma rapida análise exploratória nos dados para conseguir usar os modelos de uma maneira melhor.
 
+__3 - Detecção_de_anomalias__
+
+Aqui nos estudamos como modelar e encontrar anomalias em um conjunto de dados, com o auxílio da gaussiana, o mais interessante nesse exercício é que intuitivamente podemos pensar no problema de anomalias como um problema de classificação, porém é muito difícil, quase impossível algum modelo de classificação conseguir detectar anomalias, pois a quantidade delas geralmente é muito pequena, em um grande conjunto de dados.
+
+Portanto, abordando no contexto de estatística sem nenhum modelo de Machine Learning, conseguimos detectar essas anomalias, de uma maneira bem precisa.
