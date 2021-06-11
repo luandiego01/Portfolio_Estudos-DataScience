@@ -2,6 +2,8 @@
 
 Nesse repositório coloquei alguns notebooks com exercícios relacionados a Data Science que venho fazendo durante meus estudos.
 
+#### Obs.: Os exercícios não foram criados por mim, eles são de um curso que estou fazendo, a ideia é poder mostrar um pouco da minha evolução e aprendizado.
+
 Os datasets utilizados que precisam ser baixados estão no repositório 'DatasetsEstudos'.
 
 Os exercícios são:
