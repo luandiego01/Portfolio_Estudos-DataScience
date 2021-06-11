@@ -8,7 +8,7 @@ Os feitos são:
 
 __1 - Implementando_ML_do_zero:__
 
-Nesse exercício o foco é na criação de modelos de machiine learning do zero, usando fórmulas e algoritomos, usar esses modelos, para comparar com os modelos já existentes no SciKit Learn.
+Nesse exercício o foco é na criação de modelos de machiine learning do zero, usando fórmulas e algoritmos, usar esses modelos, para comparar com os modelos já existentes no SciKit Learn.
 
 __2 - Modelos_de_arvores_e_emsemble:__
 
