@@ -6,7 +6,7 @@ Os datasets utilizados que precisam ser baixados estão no repositório 'Dataset
 
 Os feitos são:
 
-__1 -Implementando_ML_do_zero:__
+__1 - Implementando_ML_do_zero:__
 
 Nesse exercício o foco é na criação de modelos de machiine learning do zero, usando fórmulas e algoritomos, usar esses modelos, para comparar com os modelos já existentes no SciKit Learn.
 
