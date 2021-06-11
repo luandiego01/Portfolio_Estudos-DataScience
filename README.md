@@ -12,7 +12,7 @@ Nesse exercício o foco é na criação de modelos de machiine learning do zero,
 
 __2 - Modelos_de_arvores_e_emsemble:__
 
-Nesse exercício, discutimos como encontrar melhores parâmetros para modelos de arvores e emsembles, criamos uma claase gridSeachall que faz essa busca por parâmetros, aafim de encontrarmos os melhores modelos.
+Nesse exercício, discutimos como encontrar melhores parâmetros para modelos de arvores e emsembles, criamos uma classe gridSeachall que faz essa busca por parâmetros, aafim de encontrarmos os melhores modelos.
 
 Também durante o exercício fazemos uma rapida análise exploratória nos dados para conseguir usar os modelos de uma maneira melhor.
 
