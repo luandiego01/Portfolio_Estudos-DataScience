@@ -2,7 +2,7 @@
 
 Nesse repositório coloquei alguns notebooks com exercícios relacionados a Data Science que venho fazendo durante meus estudos.
 
-Os datasets utilizados que precisam ser baixados estão no repositório 'Datasets_estudos'.
+Os datasets utilizados que precisam ser baixados estão no repositório 'DatasetsEstudos'.
 
 Os feitos são:
 
