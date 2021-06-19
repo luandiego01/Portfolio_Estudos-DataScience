@@ -28,6 +28,6 @@ __4 - Sistema_de_recomendações:__
 
 Nesse exercício, discutimos como encontrar melhores paramêtros para uma classe de fatoração criada afim de fazer recomendações de um catálogo de filmes para determinados usuários que ainda não assistiram todos os filmes.
 
-__5 - Redes Neurais - Algumas ferramentas:__
+__5 - Redes_Neurais_ferramentas:__
 
 Nesse exercício eu mostros como algumas pequenas ferramentas do Keras podem melhorar significamente nossa rede neural, construo uma rede que inicialmente possui apenas 30% de acurácia e com algumas pequenas modificações, a acurácia aumenta para 50%.
