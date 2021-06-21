@@ -1,4 +1,4 @@
-# EstudosDataScience
+# Portfolo de Estudos - DataScience
 
 Nesse repositório coloquei alguns notebooks com exercícios relacionados a Data Science que venho fazendo durante meus estudos.
 
@@ -31,3 +31,7 @@ Nesse exercício, discutimos como encontrar melhores paramêtros para uma classe
 __5 - Redes_Neurais_ferramentas:__
 
 Nesse exercício eu mostros como algumas pequenas ferramentas do Keras podem melhorar significamente nossa rede neural, construo uma rede que inicialmente possui apenas 30% de acurácia e com algumas pequenas modificações, a acurácia aumenta para 50%.
+
+__6 - Detecção_de_objetos:__
+
+Nesse notebook, a ideia principal é usar duas ferramentas poderosas de maneira conjunta para detectar objetos em imagens, usamos o Selective Search do OpenCV e a VGG19 do Keras de maneira conjunta, o Selective search para recortar a imagem em diversas outras imagens selecionadas pelo algoritmo, e usar essas novas imagens no VGG19, afim de fazer a deteção do objeto da imagem de maneira eficaz.
