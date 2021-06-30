@@ -39,3 +39,7 @@ Nesse notebook, a ideia principal é usar duas ferramentas poderosas de maneira 
 __07 - Deep_Leaning_e_construção_de_imagens:__
 
 Aqui nos usamos a tecnica de autoencoder variacional e usamos um dataset com mais de 20 mil imagens de face para fazer que o algoritmo aprenda a construir faces, faces de todas as etnias, idades e gêneros. Treinamos o modelo por apenas 20 minutos em um computador pessoal e já foi suficiente para ele aprender a reconstruir faces muito bem feitas.
+
+__08 - Séries_temporais_AR_e_Profhet:__
+
+Nesse notebook, testamos alguns modelos em uma ´serie temporal, modelos clássicos ( auto regressivo, média movel e arma ) e o modelo do facebook, o Profhet, vimos que não é tão facil assim conseguir modelar uma série temporal de maneira direta, mas conseguimos comparar esses modelos e obter bons resultados.
